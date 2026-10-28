@@ -1,5 +1,7 @@
 # ALEXANDRIA
 
+[![CI](https://github.com/LauanMO/alexandria_web/actions/workflows/ci.yml/badge.svg)](https://github.com/LauanMO/alexandria_web/actions/workflows/ci.yml)
+
 Plataforma web para organizar leituras, montar uma biblioteca pessoal digital e acompanhar a jornada do leitor.
 
 O ALEXANDRIA permite pesquisar livros, visualizar detalhes, salvar obras na biblioteca, controlar status de leitura, registrar avaliacoes, interagir em uma comunidade interna e acompanhar conquistas por XP.
